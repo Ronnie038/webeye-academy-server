@@ -1,0 +1,26 @@
+[
+	{
+		"id": "0282e0e58a5c404fbd15261f11c2ab6a",
+		"name": "CIS"
+	},
+	{
+		"id": "0282e0e58a5c404fbd15261f11c2ab6b",
+		"name": "Chemical Engineering"
+	},
+	{
+		"id": "f69a695f037cd9484cecaea37ca71011",
+		"name": "Civil & Structural Engineering"
+	},
+	{
+		"id": "f69a695f037cd9484cecaea37ca71012",
+		"name": " Electrical & Electronic Engineering"
+	},
+	{
+		"id": "11468ed61aee84de492a8b04158a22f9",
+		"name": "Mechanical Engineering"
+	},
+	{
+		"id": "11468ed61aee84de492a8b04158a22f0",
+		"name": " Medical"
+	}
+]
