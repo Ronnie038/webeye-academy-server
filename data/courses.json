@@ -1,0 +1,101 @@
+[
+	{
+		"_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+
+		"title": "CIS",
+
+		"image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y29tcHV0ZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+		"details": "While CIS is more focused on the application of computer systems for business uses, computer science is more about the ways in which computing systems are programmed and designed. Both degrees have some overlapping information, but their ultimate outcomes are to serve different purposes.",
+		"courses": [
+			"Computer Programming and Utilization",
+			"Algorithm Design",
+			"Object-Oriented Programming using C++",
+			"Networking",
+			"Java (Advanced) etc."
+		]
+	},
+	{
+		"_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+
+		"title": "Chemical Engineering",
+
+		"image_url": "https://plus.unsplash.com/premium_photo-1661292072164-f2cb0fd3b2e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlbWlzdHJ5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+		"details": "Chemical engineering is an engineering field which deals with the study of operation and design of chemical plants as well as methods of improving production. Chemical engineers develop economical commercial processes to convert raw materials into useful products",
+		"courses": [
+			"Separation processes.",
+			"Thermodynamics.",
+			"Heat, mass, and momentum.",
+			"Petroleum engineering",
+			"Fluid mechanics",
+			"Industrial chemistry",
+			"Environmental management",
+			"Cell biology"
+		]
+	},
+
+	{
+		"_id": "f69a695f037cd9484cecaea37ca71011",
+
+		"title": "civil & structural engineering",
+
+		"image_url": "https://images.unsplash.com/photo-1608303588026-884930af2559?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YXJjaGl0ZWN0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+		"details": "Civil engineering is a professional engineering discipline that deals with the design, construction, and maintenance of the physical and naturally built environment, including public works such as roads, bridges, canals, dams, airports, sewage systems, pipelines, structural components of buildings, and railways.",
+		"courses": [
+			"Mechanics of Materials, James M. Gere.",
+			"Mechanics of Fluids, Bernard Massey.",
+			"Soil Mechanics, Graham Barnes.",
+			"Foundation Course: Foundations of Sustainability",
+			"Structural Analysis, R. C. Hibbeler",
+			"Architectural CADD Course."
+		]
+	},
+	{
+		"_id": "f69a695f037cd9484cecaea37ca71012",
+
+		"title": "Electrical & Electronic Engineering",
+
+		"image_url": "https://images.unsplash.com/photo-1517420704952-d9f39e95b43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGVsZWN0cm9uaWNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+		"details": "In this sense, electrical engineering is the branch dealing with “heavy current”—that is, electric light and power systems and apparatuses—whereas electronics engineering deals with such “light current” applications as telephone and radio communication, computers, radar, and automatic control systems",
+		"courses": [
+			"Engineering Mathematics",
+			"Basic Electrical Engineering",
+			"Engineering Mechanics.",
+			"Numerical Methods",
+			"Circuit Theory",
+			"Digital Electronics",
+			"Analog Electronics"
+		]
+	},
+	{
+		"_id": "11468ed61aee84de492a8b04158a22f9",
+
+		"title": " Mechanical Engineering",
+
+		"image_url": "https://images.unsplash.com/photo-1581091226033-d5c48150dbaa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fG1lY2hhbmljYWwlMjBlbmdpbmVlcmluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+		"details": "Mechanical engineers design power-producing machines, such as electric generators, internal combustion engines, and steam and gas turbines, as well as power-using machines, such as refrigeration and air-conditioning systems. Mechanical engineers design other machines inside buildings, such as elevators and escalators.",
+		"courses": [
+			"Design of Machine Elements",
+			"Tool Design",
+			"Heat Treatment of Metal ",
+			"Mechanical Engineering Project",
+			"Production Planning and Control"
+		]
+	},
+	{
+		"_id": "11468ed61aee84de492a8b04158a22f0",
+
+		"title": "Medical",
+
+		"image_url": "https://images.unsplash.com/photo-1666214277767-b8c2a7b4c064?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8bWVkaWNpbmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+		"details": "Similarly, there's been no shortage of evidence this past year of the vital work being done by medicine graduates, from developing and testing vaccines to treating COVID-19 patients on the frontline.We’ll always need well-trained doctors and medical staff. Given this, it’s perhaps no surprise so many of you are interested in pursuing a degree in medicine.As with several other subjects featured in this article, Harvard University was ranked the best place in the world to study medicine last year, ahead of the universities of Oxford and Cambridge.",
+		"courses": [
+			"MBBS.",
+			"BDS.",
+			"BAMS (Ayurvedic)",
+			"BHMS (Homoeopathy)",
+			"BUMS (Unani)",
+			"Bachelor of Veterinary Science & Animal Husbandry (B. VSc AH)",
+			"Bachelor of Naturopathy & Yogic Science (BNYS)"
+		]
+	}
+]
