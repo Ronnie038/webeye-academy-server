@@ -12,7 +12,8 @@
 			"Object-Oriented Programming using C++",
 			"Networking",
 			"Java (Advanced) etc."
-		]
+		],
+		"price": "300$"
 	},
 	{
 		"_id": "0282e0e58a5c404fbd15261f11c2ab6b",
@@ -30,7 +31,8 @@
 			"Industrial chemistry",
 			"Environmental management",
 			"Cell biology"
-		]
+		],
+		"price": "350$"
 	},
 
 	{
@@ -47,7 +49,8 @@
 			"Foundation Course: Foundations of Sustainability",
 			"Structural Analysis, R. C. Hibbeler",
 			"Architectural CADD Course."
-		]
+		],
+		"price": "250$"
 	},
 	{
 		"_id": "f69a695f037cd9484cecaea37ca71012",
@@ -64,7 +67,8 @@
 			"Circuit Theory",
 			"Digital Electronics",
 			"Analog Electronics"
-		]
+		],
+		"price": "380$"
 	},
 	{
 		"_id": "11468ed61aee84de492a8b04158a22f9",
@@ -79,7 +83,8 @@
 			"Heat Treatment of Metal ",
 			"Mechanical Engineering Project",
 			"Production Planning and Control"
-		]
+		],
+		"price": "250$"
 	},
 	{
 		"_id": "11468ed61aee84de492a8b04158a22f0",
@@ -96,6 +101,7 @@
 			"BUMS (Unani)",
 			"Bachelor of Veterinary Science & Animal Husbandry (B. VSc AH)",
 			"Bachelor of Naturopathy & Yogic Science (BNYS)"
-		]
+		],
+		"price": "280$"
 	}
 ]
